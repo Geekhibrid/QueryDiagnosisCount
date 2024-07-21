@@ -1,4 +1,4 @@
-# SQL Project: Healthcare Patient Data Analysis
+# SQL Project: Healthcare Patient Analysis
 ### Project Overview
 The project aims to analyze patient data from a healthcare database to uncover insights about treatment and diagnosis data between male and female patient treatment patterns, and how much these patients are paying for such treatments. This analysis will help in improving proper prescriptions that's affordable to patients.
 ## Project Structure
